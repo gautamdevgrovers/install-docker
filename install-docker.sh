@@ -38,5 +38,4 @@ echo "=== Docker installation complete! ==="
 docker --version
 docker compose version
 
-echo
 echo "⚠️  Please log out and log back in (or run 'newgrp docker') to use Docker without sudo."
